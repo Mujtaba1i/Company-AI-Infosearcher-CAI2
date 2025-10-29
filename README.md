@@ -74,7 +74,7 @@ The script will automatically create this file with instructions if it doesn't e
 
 **Basic usage:**
 ```bash
-python3 .\'Company AI Infosearcher CAI2.py' --file companies.txt
+python3 Company.AI.Infosearcher.CAI2.py --file companies.txt
 ```
 
 **Input file format:**
@@ -91,7 +91,7 @@ Canada:
 
 **Help:**
 ```bash
-python3 .\'Company AI Infosearcher CAI2.py' --help
+python3 Company.AI.Infosearcher.CAI2.py --help
 ```
 
 ---
